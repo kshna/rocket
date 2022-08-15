@@ -27,7 +27,7 @@ To see the list of already added commands use:
 python3 launcher.py -c
 
 
-How to INSTALL 
+<b> How to INSTALL </b>
 
 pip3 install -r requirements.txt
 
