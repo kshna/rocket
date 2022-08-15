@@ -12,7 +12,8 @@ if you want to contribute please mail me at: sandeepkkothari@gmail.com
 4. Say your commands like: 
 	"open browser"
 	"search courses for kubernetes"
-5. Say "goodbye" to exit **rocket**
+5. Repeat steps 2-4 for each of your commands
+6. Say "goodbye" to exit **rocket**
 
 You can configure your own commands in **commands.yml** file
 It's a simple file where you can add your own commands and customize it for your needs.
