@@ -16,6 +16,7 @@ if you want to contribute please mail me at: sandeepkkothari@gmail.com
 6. Say "goodbye" to exit **rocket**
 
 You can configure your own commands in **commands.yml** file
+
 It's a simple file where you can add your own commands and customize it for your needs.
 
 Already few commands are added for MAC OS Users:
