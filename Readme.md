@@ -7,12 +7,12 @@ if you want to contribute please mail me at: sandeepkkothari@gmail.com
 	``` 
 	python3 launcher.py
 	```
-2. Say 'rocket'
+2. Say **rocket**
 3. Wait for prompt (Yes, Sir)
 4. Say your commands like: 
 	"open browser"
 	"search courses for kubernetes"
-You can configure your own commands in ##commands.yml file
+You can configure your own commands in **commands.yml** file
 It's a simple file where you can add your own commands and customize it for your needs.
 
 
@@ -31,7 +31,7 @@ python3 launcher.py -c
 ```
 
 
-##How to INSTALL
+## How to INSTALL
 ```
 pip3 install -r requirements.txt
 ```
