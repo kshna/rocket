@@ -1,0 +1,21 @@
+---
+default_browser_search: open -a "Google Chrome" https://www.google.com/search?q=
+open:
+  terminal: open -a "Terminal"
+  browser: open -a "Google Chrome"
+  editor: gedit
+  slack: open -a slack
+  calendar: open -a "Google Chrome" http://calendar.google.com
+  mail: open -a "Google Chrome" http://mail.google.com
+
+show:
+  images: open -a "Google Chrome" 'https://www.google.com/search?tbm=isch&q=
+
+search: 
+  default: open -a "Google Chrome" 'https://www.google.com/search?q=
+
+close:
+  browser: killall "Google Chrome"
+  talk: killall Slack
+  terminal: killall "Terminal"
+
