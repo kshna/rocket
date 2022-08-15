@@ -10,7 +10,7 @@ How to use?
 	"open browser"
 	"search courses for kubernetes"
 
-You can configure your own commands in config/commands.yml file
+You can configure your own commands in commands.yml file
 It's a simple file where you can add your own commands and customize it for your needs.
 
 
