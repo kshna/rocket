@@ -35,7 +35,7 @@ python3 launcher.py -c
 ```
 pip3 install -r requirements.txt
 ```
-Also, install espeak
+Also, install **espeak**
 
 For MaC:
 ```
