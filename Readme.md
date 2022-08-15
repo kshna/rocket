@@ -12,11 +12,13 @@ if you want to contribute please mail me at: sandeepkkothari@gmail.com
 4. Say your commands like: 
 	"open browser"
 	"search courses for kubernetes"
+5. Say "goodbye" to exit **rocket**
+
 You can configure your own commands in **commands.yml** file
 It's a simple file where you can add your own commands and customize it for your needs.
 
-
 Already few commands are added for MAC OS Users:
+
 
 You can say commands like:
 
@@ -29,7 +31,6 @@ To see the list of already added commands use:
 ```
 python3 launcher.py -c
 ```
-
 
 ## How to INSTALL
 ```
