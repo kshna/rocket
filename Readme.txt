@@ -1,5 +1,5 @@
 I started this as a hobby project to run commands or actions by commanding ;) .. 
-I am finding it useful and so sharing it for the public to use. Of course like life it can always be made better and hence, 
+I am finding it useful and so sharing it for the public use. Of course like life it can always be made better and hence, 
 if you want to contribute please mail me at: sandeepkkothari@gmail.com
 
 How to use?
