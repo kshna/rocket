@@ -21,7 +21,6 @@ It's a simple file where you can add your own commands and customize it for your
 
 Already few commands are added for MAC OS Users:
 
-
 You can say commands like:
 
 open browser
@@ -32,6 +31,16 @@ close browser
 To see the list of already added commands use:
 ```
 python3 launcher.py -c
+```
+
+USAGE:
+```
+python3 launcher.py 
+
+```
+DEBUGGING MODE: 
+```
+python3 launcher.py -d 
 ```
 
 ## How to INSTALL
@@ -50,14 +59,6 @@ Use apt or yum
 Example for Ubuntu: 
 ```
 apt-get install espeak 
-```
-USAGE:
-```
-python3 launcher.py 
-```
-DEBUGGING MODE: 
-```
-python3 launcher.py -d 
 ```
 
 
