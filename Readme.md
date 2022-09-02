@@ -2,6 +2,24 @@ I started this as a hobby project to run commands or actions by commanding ;) ..
 I am finding it useful and so sharing it for the public use. Of course like life it can always be made better and hence, 
 if you want to contribute please mail me at: sandeepkkothari@gmail.com
 
+## How to INSTALL
+```
+pip3 install -r requirements.txt
+```
+Also, install **espeak**
+
+For MaC:
+```
+brew install espeak
+```
+For linux:
+Use apt or yum 
+
+Example for Ubuntu: 
+```
+apt-get install espeak 
+```
+
 ## How to use?
 1. Just launch the launcher in your terminal:
 	``` 
@@ -42,24 +60,4 @@ DEBUGGING MODE:
 ```
 python3 launcher.py -d 
 ```
-
-## How to INSTALL
-```
-pip3 install -r requirements.txt
-```
-Also, install **espeak**
-
-For MaC:
-```
-brew install espeak
-```
-For linux:
-Use apt or yum 
-
-Example for Ubuntu: 
-```
-apt-get install espeak 
-```
-
-
 
